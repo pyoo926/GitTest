@@ -6,4 +6,7 @@ reg mpg price
 
 // add this change "A"
 
-reg mpg price if foreign == 1
+reg mpg price if foreign == 0
+reg mpg price foreign
+
+
